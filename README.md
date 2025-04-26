@@ -32,10 +32,10 @@ El esquema de colores es verde y blanco como los colores de la UIS jeje.
 
 ## Resultado final
 
-![Imagen resultado final barra de navegación](Imagenes\Resultado_final.jpg)
-![Imagen resultado final barra de navegación](Imagenes\Resultado_final.jpg)
-![Imagen resultado final barra de navegación](Imagenes\Resultado_final.jpg)
-![Imagen resultado final barra de navegación](Imagenes\Resultado_final.jpg)
+![Imagen resultado final barra de navegación](Panel-Administrativo-React-JS\Imagenes\Resultado_final.jpg)
+![Imagen resultado final barra de navegación](Imagenes\Resultado_final2.jpg)
+![Imagen resultado final barra de navegación](Imagenes\Resultado_final3.jpg)
+![Imagen resultado final barra de navegación](Imagenes\Resultado_final4.jpg)
 
 Andrés Felipe Jaimes Ojeda
 2211236
