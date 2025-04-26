@@ -32,7 +32,10 @@ El esquema de colores es verde y blanco como los colores de la UIS jeje.
 
 ## Resultado final
 
-![Imagen resultado final barra de navegación](C:\Users\User\Documents\Carrera\8vo Semestre\Entornos de programación\Panel Administrativo ReactJS\Resultado_final.jpg)
+![Imagen resultado final barra de navegación](Imagenes\Resultado_final.jpg)
+![Imagen resultado final barra de navegación](Imagenes\Resultado_final.jpg)
+![Imagen resultado final barra de navegación](Imagenes\Resultado_final.jpg)
+![Imagen resultado final barra de navegación](Imagenes\Resultado_final.jpg)
 
 Andrés Felipe Jaimes Ojeda
 2211236
