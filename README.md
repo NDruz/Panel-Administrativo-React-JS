@@ -1,5 +1,8 @@
 # Panel-Administrativo-React-JS
 
+Andrés Felipe Jaimes Ojeda - 2211236
+
+
 ## Descripción General
 Barra de navegación con enlaces a diferenctes secciones: Clientes, Proveedor, Usuarios y Logout. Está implementado usando React Router Dom,
 especificamente los componente `BrowserRouter`, `Routes`, `Route` y `NavLink` para permitir la navegación entre vistas sin recargar la página.
@@ -32,13 +35,12 @@ El esquema de colores es verde y blanco como los colores de la UIS jeje.
 
 ## Resultado final
 
-![Imagen resultado final barra de navegación](Panel-Administrativo-React-JS\Imagenes\Resultado_final.jpg)
-![Imagen resultado final barra de navegación](Imagenes\Resultado_final2.jpg)
-![Imagen resultado final barra de navegación](Imagenes\Resultado_final3.jpg)
-![Imagen resultado final barra de navegación](Imagenes\Resultado_final4.jpg)
+![Imagen resultado final barra de navegación](Imagenes/Resultado_final.jpg)
+![Imagen resultado final barra de navegación](Imagenes/Resultado_final2.jpg)
+![Imagen resultado final barra de navegación](Imagenes/Resultado_final3.jpg)
+![Imagen resultado final barra de navegación](Imagenes/Resultado_final4.jpg)
 
-Andrés Felipe Jaimes Ojeda
-2211236
+
 
 
    
